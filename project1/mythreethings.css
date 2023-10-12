@@ -1,0 +1,38 @@
+header{text-align: center;}
+body{background-color: lightseagreen;}
+
+
+
+/*Specfics referred off of textbook-KP*/
+/*h1-p elements formatted on all pages through here-KP*/
+h1{  font-family: sans-serif;
+font-size: 60px;
+background-clip: content-box;
+background-color: lightcyan;
+border: 10px solid #000;
+border-color:white;
+ padding: 20px;
+width: 400px; }
+
+h2{font-size: 30px;
+       background-clip: content-box;
+       background-color: lightcyan; 
+border: 10px solid #000;
+border-color:white;
+ padding: 20px;
+width: 400px; 
+}
+
+p{
+       
+font-size: 20px;
+       background-clip: content-box;
+       background-color: lightcyan; 
+border: 10px solid #000;
+border-color:white;
+ padding: 20px;
+width: 450px; }
+
+
+
+footer{font-family: cursive; color: lightcyan;}
