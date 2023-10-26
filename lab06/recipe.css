@@ -16,7 +16,7 @@ h4 a:visited { color: seagreen; }
 h4 a:hover { color: coral; }
 
  
-
+h3{text-align: center;}
 p{ color: blue; }
 
 
@@ -46,4 +46,4 @@ background-size: 400px 400px;}
 
    h1{background-color: lightskyblue;} 
 
-   h3{text-align: center;}}
+   }
