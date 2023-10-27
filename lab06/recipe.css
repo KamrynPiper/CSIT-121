@@ -50,26 +50,21 @@ background-size: 400px 400px;}
     border-radius: 15px;
     box-shadow: 5px 5px 5px #828282;
   }
+h3{background-color: aquamarine;}
+  /* visual change for mobile devices 3: background color added. */
+  .container {max-width: 100%;}
 
-  .container {
-    max-width: 100%;
-  }
+  .ingredients {width: 100%; float: none;}
 
-  .ingredients {
-    width: 100%; float: none;
-  }
-
-  .instructions {
-    margin-left: 0; 
-  }
+  .instructions {margin-left: 0; }
  
 img{height:150px; width:150px;}
- 
+ /* visual change for mobile devices 1: image adjustment. */
  #emptyspace{background-image: url(images/Ingredients.jpg);
 background-repeat: no-repeat;
 background-position: left;
 background-size: 150px 150px;}
-
+ /* visual change for mobile devices 2: background-image adjustment. */
 
 
    }
