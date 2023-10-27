@@ -8,7 +8,7 @@ box-shadow: 5px 5px 5px #828282;
 h1 { color: red; font-family: Verdana, Arial, sans-serif}
 h2{color:blue; }
 h2 a:link { color: lightblue; }
-h2 a:visited { color: seagreen; }
+h2 a:visited { color: rebeccapurple; }
 h2 a:hover { color: coral; }
 
 h4 a:link { color: lightblue; }
