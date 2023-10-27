@@ -56,7 +56,7 @@ background-size: 400px 400px;}
   }
 
   .ingredients {
-    width: 100%;
+    width: 100%; float: none;
   }
 
   .instructions {
