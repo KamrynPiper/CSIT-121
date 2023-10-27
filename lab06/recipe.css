@@ -43,20 +43,26 @@ background-size: 400px 400px;}
 @media screen and (max-width: 768px) {
 
 @media screen and (max-width: 768px) {
+  body {
+    /* Adjust styles for smaller screens */
+    background-color: lightpink;
+    border: 2px solid #ff9999;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #828282;
+  }
 
-  body{ background-color: pink; 
-border: 3px ridge #330000; 
-border-radius: 15px;
-box-shadow: 5px 5px 5px #828282;}
+  .container {
+    max-width: 100%;
+  }
 
-.container { width: 960px;
-margin-left: auto;
-margin-right: auto; }
+  .ingredients {
+    width: 100%;
+  }
 
-.ingredients{ float: left;
-   width: 90px; }
+  .instructions {
+    margin-left: 0; 
+  }
 
-   .instructions{margin-left: 500px}
 
 
 
