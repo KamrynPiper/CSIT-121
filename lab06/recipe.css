@@ -44,11 +44,11 @@ background-size: 400px 400px;}
 
 @media screen and (max-width: 768px) {
   body {
-    /* Adjust styles for smaller screens */
+    
     background-color: lightpink;
-    border: 2px solid #ff9999;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px #828282;
+    border: 3px solid #ff9999;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #828282;
   }
 
   .container {
