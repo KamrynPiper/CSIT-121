@@ -34,13 +34,13 @@ margin-right: auto; }
     
 ol{ text-transform: uppercase;}
 
+img{height: 275; width:400;}
 
 #emptyspace{background-image: url(images/Ingredients.jpg);
 background-repeat: no-repeat;
 background-position: left;
 background-size: 400px 400px;}
 
-@media screen and (max-width: 768px) {
 
 @media screen and (max-width: 768px) {
   body {
@@ -62,7 +62,9 @@ background-size: 400px 400px;}
   .instructions {
     margin-left: 0; 
   }
-
+ 
+img{height:150; width:150;}
+ 
  #emptyspace{background-image: url(images/Ingredients.jpg);
 background-repeat: no-repeat;
 background-position: left;
