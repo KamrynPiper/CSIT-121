@@ -34,7 +34,7 @@ margin-right: auto; }
     
 ol{ text-transform: uppercase;}
 
-img{height: 275; width:400;}
+img{height: 275px; width:400px;}
 
 #emptyspace{background-image: url(images/Ingredients.jpg);
 background-repeat: no-repeat;
@@ -63,7 +63,7 @@ background-size: 400px 400px;}
     margin-left: 0; 
   }
  
-img{height:150; width:150;}
+img{height:150px; width:150px;}
  
  #emptyspace{background-image: url(images/Ingredients.jpg);
 background-repeat: no-repeat;
