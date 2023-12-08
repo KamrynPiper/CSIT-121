@@ -45,7 +45,7 @@ form { background-color: lightcoral;
   width: 400px; padding: 10px; margin:auto; }
 
    @media screen and (max-width: 768px) {
-  body {  width: 100%;
+  body {  width: 200%;
   margin: 0;
    border: 3px solid #ff9999;
     border-radius: 15px;
