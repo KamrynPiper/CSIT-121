@@ -1,0 +1,63 @@
+body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-image: url(images/Trip.gif);
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left, .center, .right {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 20px; text-align: center;
+}
+
+header{text-align: center; background-color:coral;width:100%;  border: 2px solid black; border-radius: 5px;}
+
+h1,h2,h3{font-family: Verdana, Arial, sans-serif;}
+
+nav{ text-align: center; background-color: lightcoral; padding: 20px;
+  border: 1px solid black; border-radius: 5px; width:97%; margin: auto; }
+nav a:link { color: blue; }
+nav a:visited { color: darkgreen; }
+nav a:hover { color: chartreuse; }
+
+li a:link { color: blue; }
+li a:visited { color: darkgreen; }
+li a:hover { color: chartreuse; }
+
+p{ font-family: "Times New Roman", Times, serif;}
+
+  main{text-align: center; background-color: coral; width: 100%; border: 2px solid black; border-radius: 5px;}
+
+   footer {text-align: center; background-color: coral; font-family: cursive; color: lightcyan; width: 100%;}
+
+img{border: 2px solid white; border-radius: 5px  }
+
+
+
+form { background-color: lightcoral;
+         font-family: Arial, sans-serif; border: 2px solid black;
+  width: 400px; padding: 10px; margin:auto; }
+
+   @media screen and (max-width: 768px) {
+  body {  width: 100%;
+  margin: 0;
+   border: 3px solid #ff9999;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #828282;
+  background-image: url(images/Trip.gif);}
+
+  nav{ text-align: center; background-color: lightcoral; padding: 20px;
+  border: 1px solid black; border-radius: 5px; width:95%; margin: auto; }
+
+
+img{height:150px; width:150px;}
+ 
+ form { background-color: lightcoral;
+         font-family: Arial, sans-serif; border: 2px solid black;
+  width: 200px; padding: 10px; margin:auto; }
